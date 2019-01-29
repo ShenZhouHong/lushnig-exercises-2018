@@ -1,5 +1,7 @@
 # 2018 - 2019 Winter Break Greek Homework
-St. John's College 2018 - 2019 Winter Break homework for the Freshman Language Tutorial. Completed by Shen Zhou Hong
+St. John's College 2018 - 2019 Winter Break homework for the Freshman Language Tutorial. 60 exercises from C.A.E. Luschnig's Introduction to Ancient Greek: A Literary Approach. Completed by Shen Zhou Hong
+
+**Notice to people coming here from Google or other search engines: These are my answers to a homework assignment. While I have completed them to the best of my ability, I cannot gurrantee that all translations are as accurate as they can be. If there is any errors or badly translated responses, please let me know. I'll be happy to correct them! :) **
 
 ### Compiling document
 In order to compile latex source files, run `make` in the terminal:
@@ -44,9 +46,5 @@ biblatex-mla manual at CTAN.
 
 * https://www.ctan.org/pkg/biblatex-mla
 
-### GPLv3 License
-The raw template itself is licensed under the terms of the GPL (version 3). A
-full copy of the license is attached in `LICENSE.md`. Naturally, any works
-that you create using this template (i.e. any actual essays you write using
-it) will be your own intellectual property. The GPLv3 license only applies to
-any derivative templates.
+### Copyright
+The assigned sentences are excerpts from C.A.E. Luschnig's Introduction to Ancient Greek: A Literary Approach. They are reproduced here under the fair use clause of U.S. Copyright law. The translated sentences are my own intellectual property.
