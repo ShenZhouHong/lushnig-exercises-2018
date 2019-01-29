@@ -1,7 +1,21 @@
 # 2018 - 2019 Winter Break Greek Homework
+
+![Preview picture of the compiled PDF](preview.png)
+
 St. John's College 2018 - 2019 Winter Break homework for the Freshman Language Tutorial. 60 exercises from C.A.E. Luschnig's Introduction to Ancient Greek: A Literary Approach. Completed by Shen Zhou Hong
 
-**Notice to people coming here from Google or other search engines: These are my answers to a homework assignment. While I have completed them to the best of my ability, I cannot gurrantee that all translations are as accurate as they can be. If there is any errors or badly translated responses, please let me know. I'll be happy to correct them! :)**
+**Note: This is the code repository for the LaTeX document. To view the compiled PDF, [please click on this link here](./latex/shen-greek-hw.pdf).**
+
+### Message to confused Classics students stumbling upon this from Google
+Hello there.
+
+As a Classics student, I too have found myself getting stuck at certain obscure sentences, often agonizing over them as a certain sentence simply doesn't make sense. Oftentimes, as a desperate measure, one would try pasting said sentence into Google - in the vain hope that someone else has attempted them before.
+
+Well, if that's how you were lead to this document... I hope it'll be of use! Please recognise that the translations here are my best attempt for a homework assignment over the Winter break, and while I tried my absolute best, I cannot gurrantee if any of these sentences are 100% accurate. In fact, I'd say that 80% of these sentences are 80% accurate, and 20% of them only 20% good.
+
+So please don't copy them blindly, but do the translations yourself - and let my sentences serve only as a guide towards the right direction, when all else is lost.
+
+And of course, if you spot any errors or bad translations in my responses, do submit a pull request, or otherwise let me know. I'll be happy to make corrections! :)
 
 ### Compiling document
 In order to compile latex source files, run `make` in the terminal:
