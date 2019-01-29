@@ -11,7 +11,7 @@ Hello there.
 
 As a Classics student, I too have found myself getting stuck at certain obscure sentences, often agonizing over them as a certain sentence simply doesn't make sense. Oftentimes, as a desperate measure, one would try pasting said sentence into Google - in the vain hope that someone else has attempted them before.
 
-Well, if that's how you were lead to this document... I hope it'll be of use! Please recognise that the translations here are my best attempt for a homework assignment over the Winter break, and while I tried my absolute best, I cannot gurrantee if any of these sentences are 100% accurate. In fact, I'd say that 80% of these sentences are 80% accurate, and 20% of them only 20% good.
+Well, if that's how you were lead to this document... I hope it'll be of use! Please recognize that the translations here are my best attempt for a homework assignment over the Winter break, and while I tried my absolute best, I cannot guarantee if any of these sentences are 100% accurate. In fact, I'd say that 80% of these sentences are 80% accurate, and 20% of them only 20% good.
 
 So please don't copy them blindly, but do the translations yourself - and let my sentences serve only as a guide towards the right direction, when all else is lost.
 
